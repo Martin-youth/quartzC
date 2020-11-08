@@ -12,10 +12,14 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on other engineers or programmers.
 - 💬 If you have any questions, please contact syquartz12@gmail.com.
 - 📫 How to reach me: [@quartzC](https://www.instagram.com/SY_quartz/)
-- ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: 	https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white etc...
+- ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: etc...
 
 ### Connect with
- [![Instagram Badge](https://img.shields.io/badge/-Intagram-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/SY_quartz/?hl=ko)]
+<a href="https://instagram.com/SY_quartz">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 **Languages and Tools:**  
 
