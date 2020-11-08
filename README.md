@@ -41,10 +41,11 @@ Here are some ideas to get you started:-->
 
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
+#### comming soon
+<!-- YOUTUBE:START 
 - [Elastic App Search로 파이썬 애플리케이션에서 검색기능 사용하기-김종민(Elastic) -PyCon Korea 2020](https://www.youtube.com/watch?v=0rpe2hfn5Sc)
 - [[영어쉐도잉]100LS(6개월 군대식영어훈련) 라푼젤 ll #69](https://www.youtube.com/watch?v=H7xZQ7uIE0Q&t=305s)
 - [How to use ElasticSearch with Django?](https://www.youtube.com/watch?v=xFcJPwVPc1o)
 - [클론코딩 유튜브 사이트 따라 만들기(HTML+CSS 연습편, 웹 포트폴리오) | 프론트엔드 개발자 입문편: HTML, CSS, Javascript](https://www.youtube.com/watch?v=67stn7Pu7s4)
 - [All of Me (Jon Schmidt original tune) - The Piano Guys](https://www.youtube.com/watch?v=9fAZIQ-vpdw)
-<!-- YOUTUBE:END -->
+ YOUTUBE:END -->
