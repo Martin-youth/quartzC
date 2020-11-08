@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 💬 If you have any questions, please contact syquartz12@gmail.com.
 - 📫 How to reach me: [@quartzC](https://www.instagram.com/SY_quartz/)
 - ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: etc...
-<hr>
+
 
 **Languages and Tools:**  
 
