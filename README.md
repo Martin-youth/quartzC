@@ -1,9 +1,10 @@
-### I'm quartzC.<a href="https://github.com/quartzC"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there I'm quartzC.<a href="https://github.com/quartzC"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <!--
 **quartzC/quartzC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:-->
 <hr>
+
 ### I'm a student who constantly study and challenge something in Korea.
 
 - 🔭 I’m currently working on my project [TEAMLAB](https://www.notion.so/TEAMLAB-d690ca4b3f4d44449520ed21e9b51739).
@@ -13,6 +14,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [@quartzC](https://www.instagram.com/SY_quartz/)
 - ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: etc...
 <hr>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -25,8 +27,6 @@ Here are some ideas to get you started:-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <br/>
-<br/>
-
 
 <hr>
 
