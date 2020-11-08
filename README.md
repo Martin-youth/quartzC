@@ -34,6 +34,9 @@ Here are some ideas to get you started:-->
 
 <br/>
 
+[![quartzC's github stats](https://github-readme-stats.vercel.app/api?username=quartzC)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr>
 
 
