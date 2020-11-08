@@ -9,13 +9,13 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on my project [TEAMLAB](https://www.notion.so/TEAMLAB-d690ca4b3f4d44449520ed21e9b51739).
 - 🌱 I’m currently learning what to do.
-- 👯 I’m looking to collaborate on another engineers or programmers.
+- 👯 I’m looking to collaborate on other engineers or programmers.
 - 💬 If you have any questions, please contact syquartz12@gmail.com.
 - 📫 How to reach me: [@quartzC](https://www.instagram.com/SY_quartz/)
-- ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: etc...
+- ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: 	https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white etc...
 
 ### Connect with
-![Instagram Badge](https://img.shields.io/badge/-Intagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/SY_quartz/)
+ [![Instagram Badge](https://img.shields.io/badge/-Intagram-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/SY_quartz/?hl=ko)]
 
 **Languages and Tools:**  
 
