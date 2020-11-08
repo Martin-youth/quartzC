@@ -14,6 +14,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [@quartzC](https://www.instagram.com/SY_quartz/)
 - ⚡ Fun fact: I :heart: :dog: :guitar: :basketball: :soccer: etc...
 
+### Connect with
+![Instagram Badge](https://img.shields.io/badge/-Intagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/SY_quartz/)
 
 **Languages and Tools:**  
 
